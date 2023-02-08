@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rehan Memon</h1>
-<h3 align="center">A Passionate Senior Software Engineer from India</h3>
+<h3 align="center">A Passionate Power Platform Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🔭 I’m currently working on **Power Platform Domain**
