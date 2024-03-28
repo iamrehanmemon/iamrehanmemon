@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rehan4747@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://bit.ly/3CIljP6)
+- 📄 Know about my experiences [Resume](https://bit.ly/RehanMemon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
